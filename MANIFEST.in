@@ -1,4 +1,3 @@
-ecursive-include redirects *.py
+recursive-include redirects *.py
 include README README.rst DESCRIPTION INSTALL.txt
 exclude *.orig *.pyc
-
